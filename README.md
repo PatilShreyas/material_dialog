@@ -13,8 +13,8 @@ We have to create exact Animated Material Dialog package for Flutter so that it'
 ## How to Contribute?
 - File an issue regarding your solution or problem you want to solve.
 - Fork this repo
-- Create `yourname-feature` branch.
-- Open PR against `master` branch.
+- Do changes in your branch.
+- Open PR against latest `dev` branch.
 - You're done.
 
 
